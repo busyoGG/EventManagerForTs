@@ -31,4 +31,4 @@ EventManager.dispatchEventSticky("test_event_2","传入2条消息",true);
 EventManager.offAllEventByNode(this);
 ```
 
-详细说明见 [Laya自定义事件系统](https://busyo.buzz/article/Laya/%E5%B7%A5%E5%85%B7/Laya%E8%87%AA%E5%AE%9A%E4%B9%89%E4%BA%8B%E4%BB%B6%E7%B3%BB%E7%BB%9F/)
+详细说明见 [Laya自定义事件系统](https://busyo.buzz/article/1099d6589f61/)
